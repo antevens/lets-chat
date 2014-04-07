@@ -1,6 +1,6 @@
 {
   "name": "lcb",
-  "version": "0.0.1",
+  "version": "0.2.3",
   "author": "Houssam Haidar <houssam@sdelements.com>",
   "contributors": [
     {
@@ -10,7 +10,12 @@
     {
       "name": "Ramanan Sivaranjan",
       "email": "ramanan@sdelements.com"
+    },
+    {
+      "name": "Jarl Stefansson",
+      "email": "jarl@sdelements.com"
     }
+
   ],
   "keywords": [
     "chat",
