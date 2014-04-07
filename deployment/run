@@ -1,2 +1,2 @@
 # Run Docker
-LCB_ID=$(sudo docker run -d $USER/mongodb --noprealloc --smallfiles)
+LCB_ID=$(sudo docker run -d $USER/lcb --noprealloc --smallfiles)
